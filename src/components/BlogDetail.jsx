@@ -47,9 +47,9 @@ const BlogDetail = () => {
 
         {/* Blog + Sidebar */}
         <div
-          className="w-full mx-auto flex flex-col md:flex-row gap-6 sm:gap-8 md:gap-10 px-4 sm:px-6"
-          style={{ fontFamily: "Gothic" }}
-        >
+  className="max-w-screen-xl mx-auto flex flex-col md:flex-row gap-6 sm:gap-8 md:gap-10 px-4 sm:px-6"
+  style={{ fontFamily: "Gothic" }}
+>
           {/* Main Blog */}
           <div className="flex flex-col w-full md:w-[68%]">
             <p className="text-sm sm:text-base text-white mb-2 mt-2 sm:mb-4">

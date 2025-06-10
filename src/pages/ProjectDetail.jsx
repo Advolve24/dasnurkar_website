@@ -9,7 +9,7 @@ import Masonry from 'react-masonry-css';
 import { PiArrowCircleLeftThin } from "react-icons/pi";
 
 export default function ProjectDetail() {
-   const baseUrl = process.env.REACT_APP_API_URL || 'http://localhost:3000/api/projects';
+  const baseUrl = process.env.REACT_APP_API_URL || 'http://localhost:3000/api/projects';
   const { id } = useParams();
   const navigate = useNavigate();
   const [project, setProject] = useState(null);

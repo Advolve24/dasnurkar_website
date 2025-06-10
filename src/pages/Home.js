@@ -8,6 +8,8 @@ import 'keen-slider/keen-slider.min.css';
 import LogoCarousel from '../components/LogoCarousel';
 
 
+
+
 gsap.registerPlugin(ScrollTrigger);
 
 const Home = () => {
