@@ -232,7 +232,7 @@ display: none;
 }
 
 #div1 {
-  background-image: url("E:\Dasnurkar.in\sticky-header-site\public\Elysia.webp");
+  /* background-image: url('/Elysia.webp'); */
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh; 
@@ -240,40 +240,40 @@ display: none;
 }
 
 #div2 {
-  background-image: url("E:\Dasnurkar.in\sticky-header-site\public\Corianthisis.webp");
+  /* background-image: url("E:\Dasnurkar.in\sticky-header-site\public\Corianthisis.webp"); */
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed; 
 }
 
 #div3 {
-  background-image: url("E:\Dasnurkar.in\sticky-header-site\public\Patel-Mundhawa.webp");
+  /* background-image: url("E:\Dasnurkar.in\sticky-header-site\public\Patel-Mundhawa.webp"); */
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
 
 #div4 {
-  background: url("E:\Dasnurkar.in\sticky-header-site\public\Nature Pride.png");
+  /* background: url("E:\Dasnurkar.in\sticky-header-site\public\Nature Pride.png"); */
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed; 
 }
 
 #div5 {
-  background: url("E:\Dasnurkar.in\sticky-header-site\public\Unitree.webp");
+  /* background: url("E:\Dasnurkar.in\sticky-header-site\public\Unitree.webp"); */
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed; 
 }
 #div6 {
-  background: url("E:\Dasnurkar.in\sticky-header-site\public\Mahesh-Bhai.webp");
+  /* background: url("E:\Dasnurkar.in\sticky-header-site\public\Mahesh-Bhai.webp"); */
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed; 
 }
 #div7 {
-  background: url("E:\Dasnurkar.in\sticky-header-site\public\Spa-Villas.webp");
+  /* background: url("E:\Dasnurkar.in\sticky-header-site\public\Spa-Villas.webp"); */
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed; 

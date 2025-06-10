@@ -263,49 +263,56 @@ const Home = () => {
             </div>
 
             <div id="main-section1" style={{fontFamily: 'FrieghtNeo' }}>
-                <div id='div1' className='parallax-section cursor-pointer'onClick={() => window.location.href = '/project/68426231458c44d38022745a'} >
+                <div id='div1' className='parallax-section cursor-pointer'style={{
+    backgroundImage: `url('/Elysia.webp')`}} onClick={() => window.location.href = '/project/68426231458c44d38022745a'} >
                     <div className='fixed-heading heading-1'>
                         <a>Nyati Elysia</a>
                         <p>Kharadi, Pune</p>
                         <img className='fixed-heading-arrow' src='\Group-131408.svg' />
                     </div>
                 </div>
-                <div id='div2' className='parallax-section cursor-pointer'onClick={() => window.location.href = '/project/68426394458c44d38022745d'}>
+                <div id='div2' className='parallax-section cursor-pointer' style={{
+    backgroundImage: `url('/Corianthisis.webp')`}} onClick={() => window.location.href = '/project/68426394458c44d38022745d'}>
                     <div className='fixed-heading heading-2'>
                         <a>The Corinthians Club</a>
                         <p>Undri, Pune</p>
                         <img className='fixed-heading-arrow' src='\Group-131408.svg' />
                     </div>
                 </div>
-                <div id='div3' className='parallax-section cursor-pointer'onClick={() => window.location.href = '/project/68426231458c44d38022745a'}>
+                <div id='div3' className='parallax-section cursor-pointer' style={{
+    backgroundImage: `url('/Patel-Mundhawa.webp')`}} onClick={() => window.location.href = '/project/68426231458c44d38022745a'}>
                     <div className='fixed-heading heading-3'>
                         <a>Eastern Front</a>
                         <p>Mundhwa, Pune</p>
                        <img className='fixed-heading-arrow' src='\Group-131408.svg' />
                     </div>
                 </div>
-                <div id='div4' className='parallax-section cursor-pointer'onClick={() => window.location.href = '/project/684264e1458c44d380227463'}>
+                <div id='div4' className='parallax-section cursor-pointer'style={{
+    backgroundImage: `url('/Nature Pride.png')`}} onClick={() => window.location.href = '/project/684264e1458c44d380227463'}>
                     <div className='fixed-heading heading-4'>
                         <a>Nature’s Pride</a>
                         <p>Makhmalabad, Nashik</p>
                        <img className='fixed-heading-arrow' src='\Group-131408.svg' />
                     </div>
                 </div>
-                <div id='div5' className='parallax-section cursor-pointer'onClick={() => window.location.href = '/project/68426588458c44d380227466'}>
+                <div id='div5' className='parallax-section cursor-pointer' style={{
+    backgroundImage: `url('/Unitree.webp')`}} onClick={() => window.location.href = '/project/68426588458c44d380227466'}>
                     <div className='fixed-heading heading-5'>
                         <a>Nyati Unitree</a>
                         <p>Baner, Pune</p>
                         <img className='fixed-heading-arrow' src='\Group-131408.svg' />
                     </div>
                 </div>
-                <div id='div6' className='parallax-section cursor-pointer'onClick={() => window.location.href = '/project/68426627458c44d380227469'}>
+                <div id='div6' className='parallax-section cursor-pointer' style={{
+    backgroundImage: `url('/Mahesh-Bhai.webp')`}} onClick={() => window.location.href = '/project/68426627458c44d380227469'}>
                     <div className='fixed-heading heading-6'>
                         <a>Regency Astra</a>
                         <p>Yerawada, Pune</p>
                        <img className='fixed-heading-arrow' src='\Group-131408.svg' />
                     </div>
                 </div>
-                <div id='div7' className='parallax-section cursor-pointer'onClick={() => window.location.href = '/project/6842675b458c44d38022746c'}>
+                <div id='div7' className='parallax-section cursor-pointer'style={{
+    backgroundImage: `url('/Spa-Villas.webp')`}} onClick={() => window.location.href = '/project/6842675b458c44d38022746c'}>
                     <div className='fixed-heading heading-7'>
                         <a>Nyati Spa Villas</a>
                         <p>Kudje, Pune</p>
